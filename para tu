@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Para mi niña hermosa  💕  💘</title>
+    <style>
+        body {
+            background-color: #ffcccb; /* Fondo rosado */
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #333;
+        }
+        .container {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            text-align: center;
+            padding: 20px;
+            box-sizing: border-box;
+        }
+        .content {
+            max-width: 800px;
+            padding: 30px;
+            background-color: rgba(255, 255, 255, 0.8); /* Fondo semi-transparente para el texto */
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 3em;
+            color: #d63384;
+        }
+        p {
+            font-size: 1.5em;
+            line-height: 1.6;
+        }
+        .signature {
+            margin-top: 30px;
+            font-style: italic;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="content">
+            <h1> Pa ty my gattita:3💗 💗</h1>
+             <p>
+                Cada día que paso contigo es un regalo. Desde que entraste en mi vida, todo ha cambiado para mejor. Eres la luz que ilumina mi camino y el amor que llena mi corazón💘 💘.Gracias por ser la persona maravillosa que eres y por compartir tu vida conmigo tomar tu tiempo en buscarme ser celocita en tu forma  todo eso amo de ty no c k hice para merecer una bonbom como tu:3.
+            </p>
+            <p>
+                Recuerdo la primera vez que nos conocimos, cómo nuestros caminos se cruzaron y cómo supe desde el primer momento que eras especial y fui conrespondido😍.Desde entonces, hemos compartido innumerables momentos, risas, y también lágrimas, pero siempre juntos, siempre apoyándonos mutuamente.
+            </p>
+            <p>
+                Adoro la forma en que me miras, la manera en que tu sonrisa ilumina incluso los días más oscuros. Me encanta cómo haces que cada pequeño momento sea significativo y cómo siempre encuentras una razón para hacernos reír. Eres mi confidente, mi mejor amiga y el amor de mi vida.
+            </p>
+            <p>
+                Prometo estar a tu lado en cada paso del camino, en las alegrías y en las tristezas, en la salud y en la enfermedad, en los buenos y en los malos momentos. Prometo amarte y cuidarte todos los días de mi vida.
+            </p>
+            <div class="poem">
+                <p>
+                    Como el sol que besa el horizonte,<br>
+                    así tus ojos iluminan mi alma.<br>
+                    En el silencio de la noche,<br>
+                    tu voz es la melodía que calma.
+                </p>
+                <p>
+                   Eres mi refugio y mi consuelo,<br>
+                  en ti encuentro paz y alegrío.<br>
+                  Cada día a tu lado es un anhelo,<br>
+             un sueño hecho fantasia y mi amor en tu pecho.
+                </p>
+                <p>
+                    Gracias por ser mi compañera,<br>
+                    mi amor, mi guía, mi razón de ser.<br>
+                    Con cada latido, en esta vida entera,<br>
+                    te amaré siempre, hasta el amanecer.
+                </p>
+            <p>
+                Esto es muy cursi de mi parte pero me gustaria<br>
+              enserio me encantaria ser tu ojos lindos al despertar<br>
+              ser tu amor al ayudarte estar a tu lado en cada momento<br>
+              previsto y si se da no estoy asegurandoo nd pero si llegase<br>
+              o si en un futuro pasara me encantaria estar en el altar contigo<br>
+              y ser una familia:3 perdoname si me demore mucho en hacer esto toy<br>
+              k me guio jiji pero yo kuiero ser solo tuyo por siempre;c TE AMOOOOO<br>
+              MUCHOOOO MY gattita no sabes cuanto te amoooo aveces mi actitud no sabes<br>
+              como demostrarlo todo perdoname pork aun no me se soltar bien pero kuieres<br>
+              tener bebecitos conmigo?? respondeme cuando gustes..💓 💓 ❤️‍🔥
+            </p>
+            </p>
+        </div>
+    </div>
+</body>
+</html>
